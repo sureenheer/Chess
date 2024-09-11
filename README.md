@@ -1,2 +1,2 @@
 # Chess
-Single-Player chess against a bot or play two player!
+single-Player chess against a bot or play two player!
